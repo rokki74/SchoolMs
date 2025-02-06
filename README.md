@@ -1,2 +1,2 @@
 # SchoolMs
- A fully fledged school managment system
+ A fully fledged school managment system almost completed
